@@ -1,4 +1,5 @@
 **Github에서 보면 바로 이미지 확인 가능합니다!**
+링크: https://github.com/hse09021/c-management/blob/main/README.md
 
 ![슬라이드1](https://user-images.githubusercontent.com/51695816/144962567-8755354a-e40c-40d0-b15a-271037ba81b5.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/51695816/144962573-f2128c29-6fed-47eb-9c01-e25cfd473fb2.PNG)
