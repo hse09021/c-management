@@ -19,3 +19,5 @@
 ![슬라이드16](https://user-images.githubusercontent.com/51695816/144962600-7ddc4fc4-5425-40ff-956d-6d991987715d.PNG)
 ![슬라이드17](https://user-images.githubusercontent.com/51695816/144962603-6a0f98c7-3326-4bdc-b4c1-4318b7fda68b.PNG)
 ![슬라이드18](https://user-images.githubusercontent.com/51695816/144962604-3548a797-3331-4729-a02f-824b4a91ed79.PNG)
+
+MySQL C Connector 링크: https://dev.mysql.com/downloads/connector/cpp/
